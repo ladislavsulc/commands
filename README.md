@@ -57,15 +57,5 @@ npm-check -u -g
 
 ## Favorite NPM packages
 
-**[Speedtest](https://github.com/sindresorhus/speed-test)**
-
-```npm install --global speed-test
-npm install --global speed-test
-```
-
-Use
-
-```
-speed-test
-```
-
+- See this repo
+  - *TODO*: Create a repo that automatically grabs globally installed NPM packages using shell script
